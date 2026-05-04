@@ -1,0 +1,7 @@
+{
+  "id": "mickey42302-devonly",
+  "version": "1.0.0",
+  "mixins": [
+    "mickey42302-devonly.mixins.json"
+  ]
+}
